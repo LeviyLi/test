@@ -8,7 +8,7 @@ namespace Serial_ESCPOS
     static class Program
     {
         /// <summary>
-        /// 应用程序的主入口点。123test
+        /// 应用程序的主入口点。123test22222
         /// </summary>
         [STAThread]
         static void Main()
